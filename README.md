@@ -1,3 +1,8 @@
+NOTE TO ALL FOLLOWERS: 
+
+* [ReactOS AMD64/ARM Compilation Notes](https://reactos.org/wiki/AMD64)
+* [ReactOS Build Environment (Specifically for ARM Builds)](https://download.reactos.org/reactos/RosBE-Windows/arm/1.0/RosBE-ARM-1.0.exe)
+
 # ReactOS on ARM (Raspberry Pi)
 ReactOS (ROS) on ARM research
 
