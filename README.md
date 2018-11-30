@@ -6,6 +6,10 @@ NOTE TO ALL FOLLOWERS:
 # ReactOS on ARM (Raspberry Pi)
 ReactOS (ROS) on ARM research
 
+## Update: 11-29-2018 22:06:52
+
+We have obtained all necessary tools and are now preparing a PC to be used to compile ReactOS source with.
+
 ## Update: 11-16-2018 22:08:07
 
 As of this point, we are working on obtaining tools necessary to create the ROS for RPi.  All aupport goes to the ROS team and their work on the original OS. We apologize for the long wait, we will most likely redistribute a copy of ARM by xmas. Even though it's ARM based doesn't necessarily mean it will work on the Pi. We will continue researching and keeping you guys updated.
