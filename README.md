@@ -1,7 +1,9 @@
 NOTE TO ALL FOLLOWERS: 
 
-* [ReactOS AMD64/ARM Compilation Notes](https://reactos.org/wiki/AMD64)
-* [ReactOS Build Environment (Specifically for ARM Builds)](https://download.reactos.org/reactos/RosBE-Windows/arm/1.0/RosBE-ARM-1.0.exe)
+* [ReactOS AMD64/ARM Notes](https://reactos.org/wiki/AMD64)
+* [ReactOS Build Environment (Specifically for ARM Builds) (Outdated?)](https://download.reactos.org/reactos/RosBE-Windows/arm/1.0/RosBE-ARM-1.0.exe)
+* [ReactOS Build Environment (Should build all archs)](https://sourceforge.net/projects/reactos/files/RosBE-Windows/i386/2.1.6/RosBE-2.1.6.exe/download)
+* [ReactOS SVN Compile Tutorial](https://reactos.org/wiki/Building_ReactOS)
 
 ### Don't want to wait for us?
 
