@@ -3,8 +3,16 @@ NOTE TO ALL FOLLOWERS:
 * [ReactOS AMD64/ARM Compilation Notes](https://reactos.org/wiki/AMD64)
 * [ReactOS Build Environment (Specifically for ARM Builds)](https://download.reactos.org/reactos/RosBE-Windows/arm/1.0/RosBE-ARM-1.0.exe)
 
+### Don't want to wait for us?
+
+You don't have to wait for an ARM build to be published here. Just install the RosBE, download the SVN. configure the source code, and run `cmd.exe /t:0A /k [drive]:\path\to\RosBE.cmd arm` which will build ROS in ARM. Then just use ninja and create livecd iso of ROS (exports as 'reactos-arm.iso'). Source: [AMD64 - ReactOS Wiki](https://reactos.org/wiki/AMD64#Building_amd64_port)
+
 # ReactOS on ARM (Raspberry Pi)
 ReactOS (ROS) on ARM research
+
+## Update: 12-18-2018 23:42:47
+
+It has been about a month since the last update. We will start attempting an ARM build compile on Thursday. We cannot however guarantee ReactOS will work on RPi at the moment however anybody who wants to pitch in and help the project are welcome to.
 
 ## Update: 11-29-2018 22:06:52
 
