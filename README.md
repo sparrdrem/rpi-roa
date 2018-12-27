@@ -12,19 +12,11 @@ You don't have to wait for an ARM build to be published here. Just install the R
 # ReactOS on ARM (Raspberry Pi)
 ReactOS (ROS) on ARM research
 
-## Update: 12-18-2018 23:42:47
+## Update: 12-28-18 12:38:42
 
-It has been about a month since the last update. We will start attempting an ARM build compile on Thursday. We cannot however guarantee ReactOS will work on RPi at the moment however anybody who wants to pitch in and help the project are welcome to.
+I was sick and missed uploading a copy of the ARM version of ROS. The first ARM iso will be released tomorrow @ 12-1PM (-06:00 Central). As stated before, this may or may not work on RPi to start out with. If you would like to submit drivers or software or even code, please make a pull request. The other updates were removed from this readme because they were starting to become unnecessary. Just look at the earlier commits to see them.
 
-## Update: 11-29-2018 22:06:52
-
-We have obtained all necessary tools and are now preparing a PC to be used to compile ReactOS source with.
-
-## Update: 11-16-2018 22:08:07
-
-As of this point, we are working on obtaining tools necessary to create the ROS for RPi.  All aupport goes to the ROS team and their work on the original OS. We apologize for the long wait, we will most likely redistribute a copy of ARM by xmas. Even though it's ARM based doesn't necessarily mean it will work on the Pi. We will continue researching and keeping you guys updated.
-
-## Things to Note About ROS
+## Some Notes Regarding ROS
 
 * ROS is an LGPL v2 licensed OS using drivers created from scratch. It may not work everywhere and it may not work on anything. Questions regarding anything else other than boot should be talked about in [ROS's forums](https://www.reactos.org/forum/)
 * This version of ROS, just like WoA, is only for demo purposes and not for everyday work.
